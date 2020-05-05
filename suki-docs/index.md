@@ -13,7 +13,7 @@ To start, go to: http://sukihub.com/
 Sign Up & Login
 ----------
 Creating your account on the Suki Hub for First-Time Users
-
+![](https://drive.google.com/file/d/1gU5-38ezUxL9BWbDMAoxKTLhfB3w8ibA/view?usp=sharing)
 1. Go to the Suki Hub website and click on the "Sign Up for Free" button
 2. Fill out all the Required Fields:
  * Email address
