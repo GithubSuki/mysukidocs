@@ -2,14 +2,22 @@
 
 [Basic Setup](index.md)
 
-[Product Management]()
+[My Suki Mobile App](mysukimobileapp.md)
 
-  * [Uploading Popular Products](subitem1.md)
-  * [SubMenu of Products WS & Alternate Barcodes](subitem2.md)
+[Product Uploads](productuploads.md)
 
-[User Management](item2.md)
+[Product Management](productmanagement.md)
 
-[Payment Methods](item3.md)
+[Order Management](ordermanagement.md)
 
+[User Management](usermanagement.md)
+
+[Branch Management](branchmanagement.md)
+
+[My Suki App Suite]()
+
+  * [Picker App](picker.md)
+  * [Checker App](checker.md)
+  * [Driver App](driver.md)
 
 [gimmick:theme](united)
