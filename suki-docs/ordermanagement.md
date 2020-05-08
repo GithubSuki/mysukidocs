@@ -233,4 +233,22 @@ Order Completion of PayMaya and Bank Transfers Payment Type
 8. Paid Orders will be marked with "Bank to Bank".
 9. You may continue on the Normal process of Accepting, Picking, Checking, Delivering of the Order.
 
+---
+Download Orders
+----------
+This enables the user to download all orders in a certain period of time
 
+To Download Orders
+
+1. Navigate to Admin > Downloads > Orders
+2. Click On Orders
+3. You Can choose to generate
+your Orders based on:
+ * This Month
+ * Last Month
+ * Today
+ * Yesterday
+4. For Now, Let us choose this month and Click Proceed
+5. A Notification will appear confirming your action then, Click Ok
+6. The Download File will be sent to your admin email address
+ * Note: The Email must contain the CSV File of your Orders
