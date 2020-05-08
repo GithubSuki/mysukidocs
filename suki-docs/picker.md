@@ -11,6 +11,8 @@ Accessing Picker App
 2. Click Login
 3. After a successful credential authentication,
 4. You will be redirected to the Home screen
+ * Note: If your account has an access right of a picker only, you will be redirected to the picker home page, 
+otherwise the application will prompt you to choose a role, select Picker
 
 ---
 Accepting New Orders 
