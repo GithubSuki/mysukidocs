@@ -23,7 +23,7 @@ Creating your account on the Suki Hub for First-Time Users
   * Full Name
   * Store Name
   * Business Type
-3. Click Sign Up
+3. Read and Agree to the Terms Of Use and Click Sign Up
 4. Your account has been successfully created
 5. You will be redirected to the Suki Hub homepage.
 

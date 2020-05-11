@@ -7,13 +7,14 @@ Login
 ----------
 Logging into the checker app
 
-To Log into the Checker App:
+To Log into the Picker App as Checker:
 
 1. Enter your Username and Password
 2. Click Login
 3. After a successful credential authentication
 4. You will be redirected to the Home screen
-
+ * Note: If your account has an access right of a checker only, you will be redirected to the checker home page, 
+otherwise the application will prompt you to choose a role, select checker
 ---
 Accept Orders 
 ----------

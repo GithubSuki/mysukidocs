@@ -62,9 +62,13 @@ To Check out
 3. Once the products you want to order are finalized click on the Checkout Button
 4. Your Order Summary will be displayed
 5. You can tick the Pick up Icon for Pick Up Option
-6. You may also add a special note about your order
-7. Click Send Order
-8. Your Order will be sent to the Vendor
+6. You may also Choose your preferred Payment Method
+ * Cash
+ * Credit Card (PayMaya)
+ * Bank to Bank (Bank Transfers)
+7. You may also add a special note about your order
+8. Click Send Order
+9. Your Order will be sent to the Vendor
 
 To View your Previous Transactions
 
@@ -82,5 +86,8 @@ your Order
   * Ready for Delivery
   * Delivering
   * Received
-
+3. You May Also Receive Push Notifications when your Order has reached a certain Status
+ * Accepted
+ * Ready for Delivery
+ * Received
 
