@@ -20,4 +20,4 @@
   * [Checker App](checker.md)
   * [Driver App](driver.md)
 
-[gimmick:theme](united)
+[gimmick:theme](bootstrap)
