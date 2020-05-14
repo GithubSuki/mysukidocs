@@ -4,7 +4,13 @@ Suki API allows developers to build technologies around Suki. We know! We develo
 
 ## Latest API's
 
+Under Development:
+
 - [Weighted Items](vendor/weighted.md)
+- [Marketing & Promotions](marketing/index.md)
+
+Live:
+
 - [Limitations](vendor/limit_quantity.md)
 - [Fees & Charges](vendor/fees.md)
 
