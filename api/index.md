@@ -1,18 +1,18 @@
-<!-- # API Documentation for Project Sari -->
+# Suki Developer API
 
-updated by Victor Javier
+_This is work in progress. Please bear with us._
 
-Project Sari is a platform that allows mom-and-pop retailers (Sari Sari Stores) to order groceries goods from vendors ( wholesellers) such as supermarkets and distributors directly. This document explains how client application can connect to the platform, access vendor product list and submit orders.
+Suki Commerce is a platform that allows mom-and-pop retailers (Sari Sari Stores) to order groceries goods from vendors ( wholesellers) such as supermarkets and distributors directly. This document explains how client application can connect to the platform, access vendor product list and submit orders.
 
-- [My Profile](/my_profile.md)
-- [Mobile Authentication](/mobile.auth.md)
+- [My Profile](my_profile.md)
+- [Mobile Authentication](mobile_auth.md)
 
 Vendor API's:
 
-- [Product Upload API](/vendor/products_upload.md)
-- [Picking API](/vendor/picking.md)
-- [Driver API](/vendor/driver_api.md)
-- [Device API](/vendor/device.md)
+- [Product Upload API](vendor/products_upload.md)
+- [Picking API](vendor/picking.md)
+- [Driver API](vendor/driver_api.md)
+- [Device API](vendor/device.md)
 
 ## API End Point
 
