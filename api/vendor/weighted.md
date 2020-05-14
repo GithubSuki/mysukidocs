@@ -43,7 +43,7 @@ barcode,price,approx_weight,unit_in_weight,price_per_unit,variable
 
 Internally, this is how the information is stored. Weigh info is kept as sub-document of the product.
 
-```json5
+```json
 {
     barcode: "111"
     name: "Cooked Marinated Chicken",
@@ -79,20 +79,20 @@ When submitting order, there is no difference in how regular items are submitted
 
 During submission:
 
-```json5
+```json
 {
-  lines: [
+  "lines": [
     {
-      barcode: 111,
-      quantity: 1,
-    },
-  ],
+      "barcode": 111,
+      "quantity": 1
+    }
+  ]
 }
 ```
 
 After submission:
 
-```json5
+```json
 {   lines: [{
         barcode: "111"
         name: "Cooked Marinated Chicken",
@@ -122,51 +122,51 @@ See example below:
 
 Pickers submits the actual weight and final quantity.
 
-```json5
+```json
 {
-  lines: [
+  "lines": [
     {
-      barcode: "111",
-      quantity: 1,
-      weight: 1.5,
-    },
-  ],
+      "barcode": "111",
+      "quantity": 1,
+      "weight": 1.5
+    }
+  ]
 }
 ```
 
 Suki server recalculates the price based on the weight info.
 
-```json5
+```json
 {
-  lines: [
+  "lines": [
     {
-      barcode: "111",
-      quantity: 1,
-      weight: 1.5,
-      weight_info: {
-        approx_weight: 1.4,
-        unit_in_weight: "KG",
-        price_per_unit: 100,
-        variable: true,
+      "barcode": "111",
+      "quantity": 1,
+      "weight": 1.5,
+      "weight_info": {
+        "approx_weight": 1.4,
+        "unit_in_weight": "KG",
+        "price_per_unit": 100,
+        "variable": true
       },
-      price: 150,
-    },
-  ],
+      "price": 150
+    }
+  ]
 }
 ```
 
 If quantity is more than 1, picker can optionally provide a list of weights as shown in example below.
 
-```json5
+```json
 {
-  lines: [
+  "lines": [
     {
-      barcode: "111",
-      quantity: 2,
-      weights: [1.3, 1.4],
-      weight: 2.7,
-    },
-  ],
+      "barcode": "111",
+      "quantity": 2,
+      "weights": [1.3, 1.4],
+      "weight": 2.7
+    }
+  ]
 }
 ```
 
