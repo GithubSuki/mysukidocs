@@ -1,4 +1,4 @@
-# My Suki
+# Suki Commerce
 
 [Vendors](/vendors/index.md)
 [Developers](/api/index.md)
