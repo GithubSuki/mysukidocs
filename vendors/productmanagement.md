@@ -176,7 +176,7 @@ Notes:
 4. The right Product Categories must already be set at the advanced settings
 5. The categories set must match the ones indicated at the CSV Popular Product file
 6. To receive error messages regarding the uploading of products, On the Advanced Settings, list your email as an Admin email
-7. Min no. of popular products must be 100, Maxi no. of top products must be 1000 SKUs for better system optimization
+7. Min no. of popular products must be 100, Maxi no. of top products must be 500 SKUs for better system optimization
 
 To Upload Popular Products
 
@@ -203,7 +203,7 @@ To Submit the products for review
 To Monitor Upload Jobs
 
 1. Navigate to Admin > System > Jobs 
-2. Popular Products will also be displayed at the My Suki Mobile Application 
+2. Best Seller items will also be displayed at the My Suki Mobile Application
 
 ---
 Common Upload Errors  
