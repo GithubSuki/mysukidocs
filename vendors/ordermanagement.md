@@ -208,8 +208,8 @@ Orders With Different Payment Methods
 Order Completion of PayMaya and Bank Transfers Payment Type 
 
 
-1. Assuming that the customer has made an Order with PayMaya and Bank Transfer as the mode of Payment,
-2. Those Orders will be tagged with "PayMaya" for PayMaya and "Bank to Bank" for Bank Transfers. 
+1. Assuming that the customer has made an Order with PayMaya, Bank Transfer or DragonPay as the mode of Payment,
+2. Those Orders will be tagged with for PayMaya, Bank to Bank and DragonPay
 
 **To Manage PayMaya Orders**
 
@@ -233,4 +233,14 @@ Order Completion of PayMaya and Bank Transfers Payment Type
 8. Paid Orders will be marked with "Bank to Bank".
 9. You may continue on the Normal process of Accepting, Picking, Checking, Delivering of the Order.
 
+**To Manage DragonPay Orders**
 
+1. When the Customer Checks out and chose Online Banking, Over the Counter or Digital Wallet
+2. At the Suki Hub, Navigate to the Order and Click Dragon Option Icon
+3. The Payment Status “UNPAID” will be shown along with the Order Details
+4. Click on the Send Link Button to send the Customer an SMS Containing the Payment Instructions similar to this
+7. Wait and Confirm with the Customer as they follow the link and complete the payment process with Dragon Pay
+8. Once Done and Confirmed the order payment status will automatically change
+9. The Payment Status will be changed to “PAID”
+10. Paid Orders will be marked with a green badge
+11. You may continue on the Normal process of Accepting, Picking, Checking, Delivering of the Order
