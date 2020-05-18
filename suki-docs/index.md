@@ -1,5 +1,5 @@
 
-Basic Setups
+Basic Setup
 =======
 
 What is Suki Hub?
