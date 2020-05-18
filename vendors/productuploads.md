@@ -2,6 +2,9 @@
 Product Uploads
 =======
 
+Upload Products
+=======
+
 ---
 Uploading Basic Product Details
 ----------
@@ -37,98 +40,6 @@ To View Uploded Products
 1. On the Menu Bar, Navigate to Products > Active Items
 2. Click the Active Items
 3. The previously uploaded items will be displayed
-
----
-Uploading Product Names
-----------
-Barcode, Name
-
-To Prepare the CSV File
-
-1. Download the Sample Template CSV File Here
-  * https://docs.google.com/spreadsheets/d/1QNGs8E4O82r_8KqVKg0CHX5-EnHN0WwOK8MyTVBM9GE/edit#gid=0
-2. Open the file in Google Sheets and Navigate to the PRODUCT NAMES TAB, You will see some sample entries
-3. Replace the examples with your products
-  * Barcode
-  * Name
-4. Save the file in a CSV Format
-5. Click File > Download > Comma-separated values (.csv)
-6. Prepare the csv file of all the product information to be uploaded
-
-To Upload the Products
-
-1. On the Menu Bar, Navigate to Admin > Uploads > Upload Names
-2. Click the Upload Names
-3. The Product Upload Page will be displayed
-4. Press the Choose File button
-5. Navigate to the location of your csv file and click Open
-6. Click Submit to Upload your File
-7. A Notification will appear indicating that you have successfully Uploaded your Products
-8. Click the OK button, then the Back button to return to the Home Page
-
----
-Uploading Product Tags & Keywords
-----------
-Barcode, Tags, Keywords
-
-To Prepare the CSV File
-
-1. Download the Sample Template CSV File Here
-  * https://docs.google.com/spreadsheets/d/1QNGs8E4O82r_8KqVKg0CHX5-EnHN0WwOK8MyTVBM9GE/edit#gid=0
-2. Open the file in Google Sheets and Navigate to the TAGS & KEYWORDS TAB
-3. You will see some sample entries
-4. Replace the examples with your products
-  * Barcode
-  * Name
-  * Tags
-  * Keywords
-5. Save the file in a CSV Format
-6. Click File > Download > Comma-separated values (.csv)
-7. Prepare the csv file of all the product information to be uploaded
-
-To Upload the Products
-
-1. On the Menu Bar, Navigate to Admin > Uploads > Upload Tags & Keywords
-2. Click the Upload Tags & Keywords
-3. The Product Upload Page will be displayed
-4. Press the Choose File button
-5. Navigate to the location of your csv file and click Open
-6. Click Submit to Upload your File
-7. A Notification will appear indicating that you have successfully Uploaded your Products
-8. Click the OK button, then the Back button to return to the Home Page
-
-To View Uploded Products Tags & Keywords 
-
-1. To view the uploaded products, on the Menu Bar, Navigate to Products > Active Items
-2. Click the Active Items
-3. The previously uploaded items will be displayed
-4. The Tags and Keywords will also be displayed
-
----
-Uploading Bulk Images
-----------
-Barcode, image_file
-
-To Prepare the CSV File
-
-1. Download the Sample Template CSV File Here
-  * https://docs.google.com/spreadsheets/d/1QNGs8E4O82r_8KqVKg0CHX5-EnHN0WwOK8MyTVBM9GE/edit#gid=0
-2. Open the file in Google Sheets and Navigate to the BULK IMAGES TAB
-3. You will see some sample entries
-3. Replace the examples with your products
-  * Barcode
-  * image_file
-4. Save the file in a CSV Format
-5. Click File > Download > Comma-separated values (.csv)
-6. Prepare the csv file of all the product information to be uploaded
-
-To Upload the Images
-
-1. On the Menu Bar, Navigate to Admin > Uploads > Upload Bulk Images
-2. Click the Upload Bulk Images
-3. The Product Upload Page will be displayed
-4. Enter The URL
-5. And Click Confirm
 
 ---
 Uploading Product Categories
@@ -303,6 +214,228 @@ To View Inactive Products
 3. The previously uploaded items will be displayed, Products with status (I) will not be shown
 
 ---
+Update Existing Products
+=======
+
+---
+Uploading Product Tags & Keywords
+----------
+Barcode, Tags, Keywords
+
+To Prepare the CSV File
+
+1. Download the Sample Template CSV File Here
+  * https://docs.google.com/spreadsheets/d/1QNGs8E4O82r_8KqVKg0CHX5-EnHN0WwOK8MyTVBM9GE/edit#gid=0
+2. Open the file in Google Sheets and Navigate to the TAGS & KEYWORDS TAB
+3. You will see some sample entries
+4. Replace the examples with your products
+  * Barcode
+  * Name
+  * Tags
+  * Keywords
+5. Save the file in a CSV Format
+6. Click File > Download > Comma-separated values (.csv)
+7. Prepare the csv file of all the product information to be uploaded
+
+To Upload the Products
+
+1. On the Menu Bar, Navigate to Admin > Uploads > Upload Tags & Keywords
+2. Click the Upload Tags & Keywords
+3. The Product Upload Page will be displayed
+4. Press the Choose File button
+5. Navigate to the location of your csv file and click Open
+6. Click Submit to Upload your File
+7. A Notification will appear indicating that you have successfully Uploaded your Products
+8. Click the OK button, then the Back button to return to the Home Page
+
+To View Uploded Products Tags & Keywords 
+
+1. To view the uploaded products, on the Menu Bar, Navigate to Products > Active Items
+2. Click the Active Items
+3. The previously uploaded items will be displayed
+4. The Tags and Keywords will also be displayed
+
+---
+Uploading Special Tags for Product Limit
+----------
+Barcode, special_tags
+
+To Prepare the CSV File
+
+1. Download the Sample Template CSV File Here
+  * https://docs.google.com/spreadsheets/d/1QNGs8E4O82r_8KqVKg0CHX5-EnHN0WwOK8MyTVBM9GE/edit#gid=0
+2. Open the file in Google Sheets and Navigate to the SPECIAL TAGS TAB
+3. You will see some sample entries
+4. Replace the examples with your products
+  * Barcode
+  * Name
+  * Special_tags
+5. Save the file in a CSV Format
+6. Click File > Download > Comma-separated values (.csv)
+7. Prepare the csv file of all the product information to be uploaded
+
+To Upload the Products
+
+1. On the Menu Bar, Navigate to Admin > Uploads > Update Existing Products
+2. Click the Update Existing Products
+3. The Product Upload Page will be displayed
+4. Press the Choose File button
+5. Navigate to the location of your csv file and click Open
+6. Click Submit to Upload your File
+7. A Notification will appear indicating that you have successfully Uploaded your Products
+8. Click the OK button, then the Back button to return to the Home Page
+
+---
+Uploading Product Limit (via Barcode)
+----------
+Barcode, Limit
+
+In compliance to the Memorandum Circular no 20-07, Supplemental Anti-Hoarding and Anti-Panic Buying Directive, states that the retailers and consumers to limit the quantity of certain essential and vital goods that they sell and purchase
+
+To Activate Product Limits 
+
+1. Navigate to Admin > System Settings > Limits
+2. At the Advanced Settings, Limits Tab, Make sure to Enable the Limits Feature
+3. Click Update
+
+To Prepare the CSV File
+
+1. Download the Sample Template CSV File Here
+  * https://docs.google.com/spreadsheets/d/1QNGs8E4O82r_8KqVKg0CHX5-EnHN0WwOK8MyTVBM9GE/edit#gid=0
+2. Open the file in Google Sheets and Navigate to the BARCODE PRODUCT LIMIT
+3. You will see some sample entries
+4. Replace the examples with your products
+  * Barcode
+  * Limit
+5. Save the file in a CSV Format
+6. Click File > Download > Comma-separated values (.csv)
+7. Prepare the csv file of all the product information to be uploaded
+
+To Upload the Products
+
+1. On the Menu Bar, Navigate to Admin > Uploads > Update Existing Products
+2. Click the Update Existing Products
+3. The Product Upload Page will be displayed
+4. Press the Choose File button
+5. Navigate to the location of your csv file and click Open
+6. Click Submit to Upload your File
+ * Note: To Remove a limit, Upload a CSV File containing the barcode with the limit field left blank in this page
+7. A Notification will appear indicating that you have successfully Uploaded your Products
+8. Click the OK button, then the Back button to return to the Home Page
+
+To View Product Limits at Mobile 
+
+1. When a customer tries to order product quantities that exceeds the set limit, the Customer will receive a notification and the currently selected quantity would be reset to the maximum allowable order item quantity
+
+---
+Upload Product Names
+=======
+---
+Uploading Product Names
+----------
+Barcode, Name
+
+To Prepare the CSV File
+
+1. Download the Sample Template CSV File Here
+  * https://docs.google.com/spreadsheets/d/1QNGs8E4O82r_8KqVKg0CHX5-EnHN0WwOK8MyTVBM9GE/edit#gid=0
+2. Open the file in Google Sheets and Navigate to the PRODUCT NAMES TAB, You will see some sample entries
+3. Replace the examples with your products
+  * Barcode
+  * Name
+4. Save the file in a CSV Format
+5. Click File > Download > Comma-separated values (.csv)
+6. Prepare the csv file of all the product information to be uploaded
+
+To Upload the Products
+
+1. On the Menu Bar, Navigate to Admin > Uploads > Upload Names
+2. Click the Upload Names
+3. The Product Upload Page will be displayed
+4. Press the Choose File button
+5. Navigate to the location of your csv file and click Open
+6. Click Submit to Upload your File
+7. A Notification will appear indicating that you have successfully Uploaded your Products
+8. Click the OK button, then the Back button to return to the Home Page
+
+---
+Upload Bulk Images
+=======
+
+---
+Uploading Bulk Images
+----------
+Barcode, image_file
+
+To Prepare the CSV File
+
+1. Download the Sample Template CSV File Here
+  * https://docs.google.com/spreadsheets/d/1QNGs8E4O82r_8KqVKg0CHX5-EnHN0WwOK8MyTVBM9GE/edit#gid=0
+2. Open the file in Google Sheets and Navigate to the BULK IMAGES TAB
+3. You will see some sample entries
+3. Replace the examples with your products
+  * Barcode
+  * image_file
+4. Save the file in a CSV Format
+5. Click File > Download > Comma-separated values (.csv)
+6. Prepare the csv file of all the product information to be uploaded
+
+To Upload the Images
+
+1. On the Menu Bar, Navigate to Admin > Uploads > Upload Bulk Images
+2. Click the Upload Bulk Images
+3. The Product Upload Page will be displayed
+4. Enter The URL
+5. And Click Confirm
+
+Upload Tag Limits
+=======
+
+---
+Uploading Product Limit (via Tags)
+----------
+Tag, Limit
+
+In compliance to the Memorandum Circular no 20-07, Supplemental Anti-Hoarding and Anti-Panic Buying Directive, states that the retailers and consumers to limit the quantity of certain essential and vital goods that they sell and purchase
+
+To Activate Product Limits 
+
+1. Navigate to Admin > System Settings > Limits
+2. At the Advanced Settings, Limits Tab, Make sure to Enable the Limits Feature
+3. Click Update
+
+To Prepare the CSV File
+
+1. Download the Sample Template CSV File Here
+  * https://docs.google.com/spreadsheets/d/1QNGs8E4O82r_8KqVKg0CHX5-EnHN0WwOK8MyTVBM9GE/edit#gid=0
+2. Open the file in Google Sheets and Navigate to the PRODUCT TAG LIMIT
+3. You will see some sample entries
+4. Replace the examples with your products
+  * Tag
+  * Limit
+5. Save the file in a CSV Format
+6. Click File > Download > Comma-separated values (.csv)
+7. Prepare the csv file of all the product information to be uploaded
+
+To Upload the Products
+
+1. On the Menu Bar, Navigate to Admin > Uploads > Upload Tag Limits
+2. Click the Upload Tag Limits
+3. The Upload Tag Limit page will be displayed
+4. Press the Choose File button
+5. Navigate to the location of your csv file and click Open
+6. Click Submit to Upload your File
+7. A Notification will appear indicating that you have successfully Uploaded your Products
+8. Click the OK button, then the Back button to return to the Home Page
+
+To View Product Limits at Mobile 
+
+1. When a customer tries to order product quantities that exceeds the set limit, the Customer will receive a notification and the currently selected quantity would be reset to the maximum allowable order item quantity
+
+Product Downloads
+=======
+
+---
 Downloading Product Details
 ----------
 Download Products
@@ -311,6 +444,19 @@ To Download the Products
 
 1. On the Menu Bar, Navigate to Admin > Download
 2. Click the Download
+3. A notification will appear, Click Confirm
+4. The link to the product file download will be sent to your Admin Email, Click Ok
+5. Open your administrator Email and follow the download link to download
+
+---
+Downloading Products with no Images
+----------
+Download Products
+
+To Download the Products with no Images
+
+1. On the Menu Bar, Navigate to Admin > Download > Products w/o Images
+2. Click the Products w/o Images
 3. A notification will appear, Click Confirm
 4. The link to the product file download will be sent to your Admin Email, Click Ok
 5. Open your administrator Email and follow the download link to download
@@ -333,7 +479,7 @@ Summary
   * barcode, name, img_file
 
 5 Uploading Product Categories
-  * barcode, name, alt_category, alt_subcategory
+  * barcode, name, category
 
 6 Uploading Other Product Properties (Alternate Barcode)
   * barcode, alt_barcodes, name, price
@@ -344,3 +490,11 @@ Summary
 8 Uploading Other Product Properties (Inactive Status)
   * barcode, name, price, status
 
+9 Uploading Special Tags for Product Limit
+  * barcode, name, special_tags
+
+10 Uploading Product Limit (via Barcode)
+  * barcode, limit
+
+10 Uploading Product Limit (via Tags)
+  * tag, limit
