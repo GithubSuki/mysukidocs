@@ -8,6 +8,11 @@ Vendor Portal
 The Vendor portal is where the vendor sets and manages the online store, at this portal you can set your vendor profile, upload and download your products, manage your orders and many more.
 
 ---
+Basic Setup
+----------
+The Feature that enables the customer to Basic Setup [Learn more](basicsetup.md)
+
+---
 Products
 ----------
 **Product Management**
