@@ -1,6 +1,6 @@
 # Vendor Portal
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Vendor portal is where the vendor sets and manages the online store, at this portal you can set your vendor profile, upload and download your products, manage your orders and many more.
 
 - [Product Uploads](productuploads.md)
 - [Product Management](productmanagement.md)
