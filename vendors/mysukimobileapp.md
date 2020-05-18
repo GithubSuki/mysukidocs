@@ -68,19 +68,24 @@ To Check out
 
 To View your Previous Transactions
 
-1. Navigate to the History Icon and
-Select your Order Number to
-view the Order Details
-2. The Status of your Order will
-change as the Vendor processes
-your Order
+1. Navigate to the History Icon and Select your Order Number to view the Order Details
+2. The Status of your Order will change as the Vendor processes your Order
   * New
   * Accepted
   * Preparing > Picking
   * Preparing > Checking
   * Final Checking
   * Ready for Delivery
+  * Waiting (if Unpaid)
   * Delivering
   * Received
 
+3. You May Also Receive Push Notifications when your Order has reached a certain Status
+  * Accepted
+  * Ready for Delivery 
+  * Received
+  * Voided
 
+4. In compliance to the Memorandum Circular no 20-07, Supplemental Anti-Hoarding and Anti-Panic Buying Directive, states that the retailers and consumers to limit the quantity of certain essential and vital goods that they sell and purchase
+
+  * Note: When a customer tries to order product quantities that exceeds the set limit, the Customer will receive a notification and the currently selected quantity would be reset to the maximum allowable order item quantity
