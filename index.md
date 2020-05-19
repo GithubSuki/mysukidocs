@@ -8,7 +8,7 @@ _This is a work in progress._
 My Suki helps retail stores sell online and fulfil orders. Launch your own mobile store on our My Suki app. Manage orders from our Suki Hub for free, or ask about our integrated app suite to make order fulfilment easier. My Suki reduces the time, effort, cost, and risk of running your own e-commerce channel.
 
 ##How to Get Started?
-Signup for an account at [suki.io](https://suki.io/). Setup your branch, upload your products and start selling. Schedule time with us to guide you through it, and show you what else Suki can do. It only takes an hour!
+Sign up for an account at [suki.io](https://suki.io/). Set up your branch, upload your products and start selling. Schedule a time with us to guide you through it, and show you what else Suki can do. It only takes an hour! [Read More](/vendors/index.md)
 
 ![](https://drive.google.com/uc?export=view&id=1jN7XmN8qQQWX70aK4Wpw7OMEzc1bLen4 "My Suki")
 

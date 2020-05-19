@@ -4,9 +4,7 @@ Basic Setup
 
 What is Suki Hub?
 ----------
-Suki Hub is a web portal specifically for My Suki Vendors.
-
-This is where you setup information about your business and the products that you sell, so that Sari-Sari store Owners can access you from their My Suki App.
+Suki Hub is a web portal specifically for My Suki Vendors. This is where the vendors setup information about their business and the products that they sell. Which enables Sari-Sari store owners or customers to access your store from their My Suki App.
 
 To start, go to: https://suki.io/
 
