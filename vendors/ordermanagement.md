@@ -244,3 +244,8 @@ Order Completion of PayMaya and Bank Transfers Payment Type
 9. The Payment Status will be changed to “PAID”
 10. Paid Orders will be marked with a green badge
 11. You may continue on the Normal process of Accepting, Picking, Checking, Delivering of the Order
+
+---	
+### Get to Know More!
+
+[Vendor Portal](index.md) | [Basic Setup](basicsetup.md) | [Product Management](productmanagement.md) | [User Management](usermanagement.md) | [Branch Management](branchmanagement.md) | [Suki Suite](/vendors/index.md#Suki_Suite) | [Advanced Setup](advancedsetup.md)

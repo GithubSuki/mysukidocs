@@ -90,8 +90,11 @@ This shows how to switch from branch to branch
 2. Search or Select the Branch you want to switch to.
 3. Click Switch.
  * You will be switched to the selected bench you may view the orders and settings specific to that branch
-	
 
+---		
+### Get to Know More!
+
+[Vendor Portal](index.md) | [Basic Setup](basicsetup.md) | [Product Management](productmanagement.md) | [Order Management](ordermanagement.md) | [User Management](usermanagement.md) | [Suki Suite](/vendors/index.md#Suki_Suite) | [Advanced Setup](advancedsetup.md)
 
 
 

@@ -10,7 +10,7 @@ The Suki Vendor Portal is the site where in the vendor or store owner can manage
 ---
 Basic Setup
 ----------
-Here's a tip to Get Started! The Basic Setup are the essentaial items that a Newly Signed Up Vendor must configure. This includes instructions on how to Sign Up and Login, How to Set Up the Company Profile, Service Level Agreement, Fees & Charges and Payment Methods. [Learn more](basicsetup.md)
+Here's a tip to Get Started! The Basic Setup are the essentaial items that a Newly Signed Up Vendor must configure. This includes instructions on how to Sign Up and Login, How to Set Up the Company Profile, Service Level Agreement, Fees & Charges and Payment Methods. [Learn more](basicsetup.md) 
 
 ---
 Product Management
@@ -20,6 +20,9 @@ Manage and choose your products wiseley. The Product Management enables the Vend
 
 ### Product Uploads
 Product Uploads enables you to upload, download and set the product properties of your items. You can upload the Basic Product Details, Set the Product Categories, Add Alternate Barcodes, Set the items available for Wholesale Purchase, Add Product Tags and Keywords, Set Product Purchase Quantity Limits or even Deactivate out of stock items. [Learn more](productuploads.md)
+
+### Monitoring Tools
+Make sure all products are uploaded and nothing is left behind. The Product Upload Monitoring enables the Users to View and track the system processes and progress when downloading or uploading a product csv files. The User has the ability to view the date and time, type of action made, status, progress and success and error remarks. [Learn more](systemmonitoring.md)
 
 ---
 Order Management
@@ -37,11 +40,6 @@ Branch Management
 Do you have more than one Branch? It's time to Activate the Mulit-Branch Set Up. You can add multiple branches, edit the branch details, or delete the inactive ones. You can also set up your Pick Up Locations and freely switch from branch to branch. [Learn more](branchmanagement.md)
 
 ---
-System Monitoring
-----------
-Lorem Ipsum. [Learn more](xx.md)
-
----
 Suki Suite
 ----------
 The Suki App Suite is composed of the ***Picker App***, ***Checker App*** and ***Driver App***. Each App has a distincitve use for every key player and stage of the order fulfillment process. These apps makes order fulfillment process accurate, optimized and quicker.
@@ -55,7 +53,9 @@ To minimize customer order and delivery mismatch. With the checker app this enab
 ### Driver App
 Dont know where to deliver? The Driver app guides the driver on delivering the order, it has the ablility to contact the customer, view the customers location, navigate through it and get to your destination on time and safeley. The driver can also collect payments and let the customer sign as a proof of delivery using the mobile application. [Learn more](driver.md)
 
+*For Advanced Users, Read More by [Clicking Here!](/vendors/advancedsetup.md)*
+
 ---
 ### Get to Know More!
 
-[Basic Setup](/vendors/basicsetup.md) | [Product Management](productmanagement.md) | [Order Management](ordermanagement.md) | [User Management](usermanagement.md) | [Branch Management](branchmanagement.md) | [Suki Suite](/vendors/index.md#Suki_Suite)
+[Basic Setup](basicsetup.md) | [Product Management](productmanagement.md) | [Order Management](ordermanagement.md) | [User Management](usermanagement.md) | [Branch Management](branchmanagement.md) | [Suki Suite](/vendors/index.md#Suki_Suite) | [Advanced Setup](advancedsetup.md)

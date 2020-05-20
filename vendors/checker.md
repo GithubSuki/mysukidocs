@@ -73,5 +73,8 @@ To Verify the Orders:
 2. A Notification Indicating that the transaction is Completed and for POS Printing
 3. Click Ok After Checking the items the status of the Order at My Suki Hub must be READY
 
+---
+### Get to Know More!
 
+[Vendor Portal](index.md) | [Suki Suite](/vendors/index.md#Suki_Suite) | [My Picker App](picker.md) | [My Driver App](driver.md)
 

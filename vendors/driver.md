@@ -53,5 +53,8 @@ To Collect Payments
 5. Click Proceed to Finalize the Order
 6. After Delivering the items the status of the Order at My Suki Hub must be RECEIVED
 
+---
+### Get to Know More!
 
+[Vendor Portal](index.md) | [Suki Suite](/vendors/index.md#Suki_Suite) | [My Picker App](picker.md) | [My Checker App](checker.md)
 

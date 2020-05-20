@@ -88,5 +88,8 @@ There are various print options you can use to customize your Picklist:
 * Extra QRCode Printout: Prints out the QR Code
 * Extra Out of Stock Printout: Prints Out all Out of Stock Items
 
+---
+### Get to Know More!
 
+[Vendor Portal](index.md) | [Suki Suite](/vendors/index.md#Suki_Suite) | [My Checker App](checker.md) | [My Driver App](driver.md)
 
