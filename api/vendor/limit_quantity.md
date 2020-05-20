@@ -100,7 +100,7 @@ You will be able to retrieve the tag limits from this API.
 {
   settings: {
     enable_limits: true, // this flag indicate that limits should be imposed on customer
-  },
+  }
 }
 ```
 
