@@ -10,7 +10,7 @@ To limit the quantity per item, simply upload a file containing `barcode` and `l
 
 Example 1: products.csvs
 
-```csv
+```
 barcode,limit
 111,10
 222,5
