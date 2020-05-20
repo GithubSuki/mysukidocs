@@ -15,3 +15,6 @@ Sign up for an account at [suki.io](https://suki.io/). Set up your branch, uploa
 ### Get to Know More!
 
 [My Suki for Vendors](/vendors/index.md) | [My Suki for Developers](/api/index.md)
+
+[gimmick:FacebookLike](https://www.facebook.com/mysukiapp/)
+
