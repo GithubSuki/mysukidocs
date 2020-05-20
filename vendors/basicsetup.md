@@ -243,3 +243,8 @@ To Set DragonPay as a Payment Method
 3. Enter your DragonPay Username and Password
  * Note: Dragon Pay allows you to accept payment types from various channels including online banking, over the counter and digital wallets.To get started, please apply for an account from DragonPay. After which, you just need to enter the 'secret key' supplied to you by DragonPay.
  * Note: The Vendor can pass these fees to the Customer by enabling the options
+
+### Get to Know More!
+
+#### Advanced Setup 
+The Advanced Setup enables ..... [Advance Settings](xx.md)

@@ -37,6 +37,11 @@ Branch Management
 Do you have more than one Branch? It's time to Activate the Mulit-Branch Set Up. You can add multiple branches, edit the branch details, or delete the inactive ones. You can also set up your Pick Up Locations and freely switch from branch to branch. [Learn more](branchmanagement.md)
 
 ---
+System Monitoring
+----------
+Lorem Ipsum. [Learn more](xx.md)
+
+---
 Suki Suite
 ----------
 The Suki App Suite is composed of the ***Picker App***, ***Checker App*** and ***Driver App***. Each App has a distincitve use for every key player and stage of the order fulfillment process. These apps makes order fulfillment process accurate, optimized and quicker.
@@ -52,5 +57,7 @@ Dont know where to deliver? The Driver app guides the driver on delivering the o
 
 ---
 ### Get to Know More!
+
+[Advanced Setup](xx.md)
 
 [Basic Setup](/vendors/basicsetup.md) | [Product Management](productmanagement.md) | [Order Management](ordermanagement.md) | [User Management](usermanagement.md) | [Branch Management](branchmanagement.md) | [Suki Suite](/vendors/index.md#Suki_Suite)
