@@ -61,7 +61,7 @@ At the end, you have to turn on the `enable_limits` setting; so the mobile app k
 
 To remove the limit for tags, you just sumbit an CSV file with only the column header, just like below.
 
-```csv
+```
 tag,limit
 ```
 
@@ -96,7 +96,7 @@ You will be able to retrieve the tag limits from this API.
 
 `GET /c/api/vendors/{vendor_id}`
 
-```json5
+```
 {
   settings: {
     enable_limits: true, // this flag indicate that limits should be imposed on customer
