@@ -58,6 +58,4 @@ Dont know where to deliver? The Driver app guides the driver on delivering the o
 ---
 ### Get to Know More!
 
-[Advanced Setup](xx.md)
-
 [Basic Setup](/vendors/basicsetup.md) | [Product Management](productmanagement.md) | [Order Management](ordermanagement.md) | [User Management](usermanagement.md) | [Branch Management](branchmanagement.md) | [Suki Suite](/vendors/index.md#Suki_Suite)
