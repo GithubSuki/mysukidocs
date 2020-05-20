@@ -13,7 +13,7 @@ Fees are service charges to the end-user. Vendors can configure 4 types of fees.
 
 Example:
 
-```json
+```
 { name: "Delivery Fee", code: "delivery", fee: 100 }
 ```
 
@@ -23,7 +23,7 @@ Fees can be calculated using a simple rate table. In this example, fee is P100 (
 
 Table Example:
 
-```json
+```
 {   name: "Delivery Fee",
     code: "delivery",
     rates: [
@@ -37,7 +37,7 @@ Percentage Example:
 
 Delivery fee will be calculated based on 3% of the total amount.
 
-```json
+```
 { name: "Delivery Fee", code: "delivery", rates: 0.03 }
 ```
 
@@ -49,7 +49,7 @@ The example means that fee is 50 pesos for the first 3 kilometers; and every add
 
 Example:
 
-```json
+```
 {
   name: "Delivery Fee",
   code: "delivery",
@@ -64,7 +64,7 @@ Example:
 
 Sample calculation for above formula.
 
-```javascript
+```
 // 1 km -> 50
 // 2 km -> 50
 // 3 km -> 50
@@ -77,7 +77,7 @@ Sample calculation for above formula.
 
 Here is an example of conditional fees. This service charge is applicable only for the payment type 'cash'.
 
-```json
+```
     {
       name: 'Service Charge',
       fee: 50,
@@ -89,7 +89,7 @@ Here is an example of conditional fees. This service charge is applicable only f
 
 It is possible to give discount by specifying a negative fee. Here is an example.
 
-```json
+```
     {
       name: 'Payment Discount',
       fee: -50,
@@ -112,7 +112,7 @@ GET /api/current/vendor/fees
 PUT /api/current/vendor/fees
 ```
 
-```json
+```
 {
     delivery: ["formula1", "formula2", ...]
     pickup: ["formula1", "formulat2", ...]
@@ -141,7 +141,7 @@ PUT /api/current/locations/{loation_id}/fees
 
 # Complete Example
 
-```json
+```
  {
   pickup: [
     { name: "Picking Fee", fee: 100 },
